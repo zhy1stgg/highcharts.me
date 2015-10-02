@@ -1,0 +1,16 @@
+<?php	// 	别忘记这行
+
+define('UC_CONNECT', '');	// 去掉这行的值
+define('UC_DBHOST', 'localhost');
+define('UC_DBUSER', 'ucenter');
+define('UC_DBPW', 'bbs.hcharts.cn.highcharts.me');
+define('UC_DBNAME', 'ucenter');
+define('UC_DBCHARSET', 'utf8');
+define('UC_DBTABLEPRE', '`ucenter`.uc_ucenter_');
+define('UC_DBCONNECT', '0');
+define('UC_KEY', 'highcharts.me.me');
+define('UC_API', 'http://u.hcharts.cn/uc_server');
+define('UC_CHARSET', 'utf-8');
+define('UC_IP', '');
+define('UC_APPID', '');
+define('UC_PPP', '20');
